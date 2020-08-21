@@ -10,5 +10,5 @@ bash ./dead-links-checker.sh "http://www.cellorganizer.org"
 
 ## Dependencies
 
-- [Dart SDK](https://www.dartlang.org/tools/sdk#install) (setup instructions in ONETIMESETUP.sh)
+- [Dart SDK](https://www.dartlang.org/tools/sdk#install) (setup instructions in setup.sh)
 - [linkcheck](https://pub.dartlang.org/packages/linkcheck) (comes with Dart)
